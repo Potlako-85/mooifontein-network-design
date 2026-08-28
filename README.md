@@ -51,7 +51,7 @@ The design accommodates a recent **Change Request (CR12)** for IoT sensor deploy
 │   └── vlsm-table.png
 └── simulation/
     └── mooifontein-ranch.pkt   (Packet Tracer)
-
+```
 
 ## Addressing at a Glance
 
