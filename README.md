@@ -17,7 +17,7 @@ The design accommodates a recent **Change Request (CR12)** for IoT sensor deploy
 | Logical Topology Design | Complete |
 | IP Addressing Plan (VLSM) | Complete |
 | Packet Tracer Simulation | In Progress |
-| Implementation & Configuration | ⏳ Pending |
+| Implementation & Configuration | Pending |
 
 ## Design Highlights
 
