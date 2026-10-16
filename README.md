@@ -45,7 +45,7 @@ The design accommodates a recent **Change Request (CR12)** for IoT sensor deploy
 │   ├── 02-physical-topology.md
 │   ├── 03-logical-topology.md
 │   └── 04-ip-addressing-plan.md
-├── diagrams/
+├── Diagrams/
 │   ├── physical-topology.png
 │   └── logical-topology.png
 ├── Implementation/
@@ -56,7 +56,7 @@ The design accommodates a recent **Change Request (CR12)** for IoT sensor deploy
 │   ├──milestone 5
 │   ├──milestone 6
 │   ├──milestone 7
-└── simulation/
+└── Simulation/
     └── mooifontein-ranch.pkt   (Packet Tracer)
 ```
 
