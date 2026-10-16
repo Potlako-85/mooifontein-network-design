@@ -47,8 +47,15 @@ The design accommodates a recent **Change Request (CR12)** for IoT sensor deploy
 │   └── 04-ip-addressing-plan.md
 ├── diagrams/
 │   ├── physical-topology.png
-│   ├── logical-topology.png
-│   └── vlsm-table.png
+│   └── logical-topology.png
+├── Implementation/
+│   ├──milestone 1
+│   ├──milestone 2
+│   ├──milestone 3
+│   ├──milestone 4
+│   ├──milestone 5
+│   ├──milestone 6
+│   ├──milestone 7
 └── simulation/
     └── mooifontein-ranch.pkt   (Packet Tracer)
 ```
